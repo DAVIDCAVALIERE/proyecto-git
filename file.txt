@@ -1,1 +1,3 @@
-Este es el primer archivo creado!.
+Este es el primer archivo creado! y se llama file.txt
+
+esta es la segunda fila
